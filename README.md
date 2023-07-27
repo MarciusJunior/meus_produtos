@@ -1,2 +1,2 @@
 # meus_produtos
-front e back para cadastrar seus produtos de maneira simples
+use meus produtos para cadastrar seus produtos de maneira simples
